@@ -32,3 +32,21 @@ $ conda install python=3 matplotlib
 $ vim gen_coords.py
 ```
 Then replace line 7 to your own ipinfo token, which can be acquired [here](https://ipinfo.io/) by signing up. 
+
+
+### Running Results
+``` sh
+$ (geo_env) python plot_geolocation.py
+```
+
+![alt text](https://github.com/y1m1ng1in/geolocation-ip-visualization/blob/master/docs/request1.PNG)
+
+![alt text](https://github.com/y1m1ng1in/geolocation-ip-visualization/blob/master/docs/request2.PNG)
+
+
+![alt text](https://github.com/y1m1ng1in/geolocation-ip-visualization/blob/master/docs/request3.PNG)
+
+
+![alt text](https://github.com/y1m1ng1in/geolocation-ip-visualization/blob/master/docs/request4.PNG)
+
+
